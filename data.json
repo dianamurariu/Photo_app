@@ -1,0 +1,77 @@
+[
+  {
+    "id":1,
+    "srcThumbnail":"media/picture1.jpeg",
+    "srcImage":"media/picture1.jpeg", 
+    "title":"Relaxation",
+    "shortDesc":"Serenity and tranquility",
+    "desc":"Introducing 'Relaxation', a beautiful painting that captures the essence of peacefulness and beauty in a single image. This stunning piece depicts a young girl in a state of complete relaxation, lying down with a book resting gently over her face. While her face is hidden, her body language and posture convey a sense of calm and tranquility. The girl appears lost in thought, fully immersed in the world of the book she is reading."
+  },
+  {
+      "id":2,
+      "srcThumbnail":"media/picture2.jpeg",
+      "srcImage":"media/picture2.jpeg", 
+      "title":"Seductive",
+      "shortDesc":"Sensuality and allure",
+      "desc":"Introducing 'Seductive', a captivating painting that exudes sensuality and allure. This mesmerizing piece depicts the figure of a naked woman from the back, with her curves and form on full display. The use of diffused shades of purple adds a touch of mystery and elegance to the painting, evoking a sense of intrigue and desire. Despite the lack of facial features, the woman's body language and posture convey a powerful sense of confidence and sensuality."
+    },
+    {
+      "id":3,
+      "srcThumbnail":"media/picture3.jpeg",
+      "srcImage":"media/picture3.jpeg", 
+      "title":"Fragments",
+      "shortDesc":"Mystery and beauty",
+      "desc":"Introducing 'Fragments', an enigmatic painting that invites you to piece together the beauty of its subject.This piece depicts the portrait of a beautiful woman, constructed by fragments of painting that come together to create a stunning whole. The use of nude colors, blue, and brown adds a touch of mystery and intrigue to the painting, evoking a sense of depth and complexity. The woman's portrait is captivating, with an enigmatic gaze that leaves the viewer wondering about her thoughts and emotions."
+    },
+    {
+      "id":4,
+      "srcThumbnail":"media/picture4.jpeg",
+      "srcImage":"media/picture4.jpeg", 
+      "title":"Freedom",
+      "shortDesc":"Carefree and natural",
+      "desc":"Introducing 'Freedom', a delightful painting that captures the joy of childhood and the beauty of the natural world. This charming piece depicts a little girl swinging from the moon in a desert landscape, surrounded by little cacti. The calming shades of cream and brown evoke the tranquility of the desert sands, while the use of the moon adds a touch of magic and whimsy to the painting. The girl's carefree spirit is evident in her joyful expression and the playful swing of her legs."
+    },
+    {
+      "id":5,
+      "srcThumbnail":"media/picture5.jpeg",
+      "srcImage":"media/picture5.jpeg", 
+      "title":"Elegance",
+      "shortDesc":"Sophisticate and powerful",
+      "desc":"Introducing 'Elegance', a stunning painting that exudes sophistication and style. This captivating piece depicts the figure of a young woman dressed in black, with black hair and black lips. Her face is hidden by a large, beautiful hat, adding a touch of mystery and intrigue to the painting. The use of shades of blue and black creates an elegant and refined atmosphere, further enhancing the sense of sophistication and beauty. Despite the hidden face, the woman's posture and clothing convey a powerful sense of confidence and poise. "
+    },
+    {
+      "id":6,
+      "srcThumbnail":"media/picture6.jpeg",
+      "srcImage":"media/picture6.jpeg", 
+      "title":"Twins",
+      "shortDesc":"Clean and minimalist",
+      "desc":"Introducing 'Twins', a captivating painting that celebrates the beauty and uniqueness of twins. This charming piece depicts two simple portraits of twins, with curly blue hair and red cheeks. The portraits are arranged geometrically, creating a visually striking composition that is both simple and beautiful. The use of clean lines and simple shapes adds to the minimalist aesthetic of the painting, highlighting the beauty and distinctiveness of the twin subjects."
+    },
+    {
+      "id":7,
+      "srcThumbnail":"media/picture7.jpeg",
+      "srcImage":"media/picture7.jpeg", 
+      "title":"Serenity",
+      "shortDesc":"Stars and moon",
+      "desc":"Introducing 'Serenity', a breathtaking painting that captures the beauty and tranquility of a moonlit mountain landscape. This captivating piece depicts a view of mountains in the night, with a clean sky full of stars and a full moon shining brightly. The lines creating the painting are clear and simple, with shades of blue and gray adding to the serene atmosphere. The painting evokes a feeling of calm and meditation, transporting the viewer to a peaceful and restful place."
+    },
+    {
+      "id":8,
+      "srcThumbnail":"media/picture8.jpeg",
+      "srcImage":"media/picture8.jpeg", 
+      "title":"Shadows",
+      "shortDesc":"Curiosity and composition",
+      "desc":"Introducing 'Shadows', a captivating painting that celebrates the playful curiosity of cats. This charming piece depicts a cat on a staircase, watching her own shadow as it is cast onto the wall. The stairs and their shadows are rendered in shades of pink-purple, creating a visually striking composition that is both simple and beautiful. The cat's reflection on the wall adds a touch of whimsy and magic to the painting, further enhancing the playful mood. The use of well-defined geometric shapes and clean lines gives the painting a modern and minimalist feel."
+    },
+    {
+      "id":9,
+      "srcThumbnail":"media/picture9.jpeg",
+      "srcImage":"media/picture9.jpeg", 
+      "title":"Reflection",
+      "shortDesc":"Vibrant and cold",
+      "desc":"Introducing 'Reflection', a breathtaking painting that captures the beauty and wonder of a cityscape at night. This mesmerizing piece depicts a bright, lighted city reflecting on the water next to it, creating a stunning scene that is both calming and invigorating. The full moon and clear night sky allow for a view of the stars, adding to the enchantment of the painting. The city is composed of tall buildings, full of lights that give the painting a warm, vibrant feel. The use of cold shades of blue, purple, and dark pink creates a visually striking composition that is both bold and alluring."
+    } 
+
+]
+
+
