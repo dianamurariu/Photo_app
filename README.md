@@ -1,6 +1,6 @@
 # Photo App
 
-Welcome to my photo app, a simple web application showcasing paintings created using HTML and JavaScript. This app utilizes a JavaScript router to navigate between two pages: the homepage and a single painting page.
+Welcome to my photo app, a simple web application showcasing paintings created using HTML, Bootstrap and JavaScript. This app utilizes a JavaScript router to navigate between two pages: the homepage and a single painting page.
 
 ## Table of Contents
 
@@ -10,6 +10,7 @@ Welcome to my photo app, a simple web application showcasing paintings created u
   - [Homepage](#homepage)
   - [Single Painting Page](#single-painting-page)
 - [Usage](#usage)
+- [Dependencies](#dependencies)
 
 ## Features
 
@@ -37,3 +38,7 @@ The single painting page displays a larger image of the selected painting along 
 
 1. Clone the repository.
 2. Open the `index.html` file in your preferred web browser.
+
+## Dependencies
+
+- [Bootstrap](https://getbootstrap.com/): Used for styling the UI.
