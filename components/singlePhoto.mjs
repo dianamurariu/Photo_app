@@ -3,7 +3,6 @@ export default class SinglePhoto {
     this.props = props;
   }
 
-  // This method returns the HTML markup for displaying a single photo with its description
   render() {
     return `
       <div class="container">
