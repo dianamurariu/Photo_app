@@ -1,4 +1,4 @@
-# CV Website
+# Photo App
 
 Welcome to my photo app, a simple web application showcasing paintings created using HTML and JavaScript. This app utilizes a JavaScript router to navigate between two pages: the homepage and a single painting page.
 
@@ -16,6 +16,7 @@ Welcome to my photo app, a simple web application showcasing paintings created u
 - JavaScript router for seamless page navigation.
 - Homepage with thumbnails for quick painting selection.
 - Single painting page with detailed information about a specific painting.
+- Utilize JSON files to store images and descriptions for each painting, enhancing data organization and efficiency.
 
 ## Live Demo
 
