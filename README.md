@@ -2,15 +2,9 @@
 
 Welcome to my photo app, a simple web application showcasing paintings created using HTML, Bootstrap and JavaScript. This app utilizes a JavaScript router to navigate between two pages: the homepage and a single painting page.
 
-## Table of Contents
+## Live Demo
 
-- [Features](#features)
-- [Live Demo](#live-demo)
-- [Pages](#pages)
-  - [Homepage](#homepage)
-  - [Single Painting Page](#single-painting-page)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
+You can explore the live demo of the app <a href="https://dianamurariu.github.io/Photo_app/" target="_blank">here</a>.
 
 ## Features
 
@@ -18,10 +12,6 @@ Welcome to my photo app, a simple web application showcasing paintings created u
 - Homepage with thumbnails for quick painting selection.
 - Single painting page with detailed information about a specific painting.
 - Utilize JSON files to store images and descriptions for each painting, enhancing data organization and efficiency.
-
-## Live Demo
-
-You can explore the live demo of the app <a href="https://dianamurariu.github.io/Photo_app/" target="_blank">here</a>.
 
 ## Pages
 
