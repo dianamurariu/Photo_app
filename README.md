@@ -1,6 +1,6 @@
 # Photo App
 
-Welcome to my photo app, a simple web application showcasing paintings created using HTML, Bootstrap and JavaScript. This app utilizes a JavaScript router to navigate between two pages: the homepage and a single painting page.
+Welcome to my photo app! A simple painting gallery website created using HTML, Bootstrap and JavaScript. This app utilizes a JavaScript router to navigate between pages.
 
 ## Live Demo
 
