@@ -4,7 +4,7 @@ Welcome to my photo app! A simple painting gallery website created using HTML, B
 
 ## Live Demo
 
-You can explore the live demo of the app [here](https://dianamurariu.github.io/Photo_app/).
+You can explore the live demo of the app [here](https://photo-app-puce.vercel.app/).
 
 ## Features
 
